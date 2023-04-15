@@ -10,7 +10,7 @@
 
 - `vi ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings`
 - [Arrow Symbol](https://www.toptal.com/designers/htmlarrows/arrows/)
-    - <kbd>Alt</kbd> + <kbd>&#8593;</kbd> $\Rightarrow$   `"%%R"` (mostly for  `%load_ext rpy2.ipython`)
+    - <kbd>Alt</kbd> + <kbd>&#8657;</kbd> $\Rightarrow$   `"%%R"` (mostly for  `%load_ext rpy2.ipython`)
     ```
         "shortcuts": [
             {
@@ -24,7 +24,7 @@
                 "selector": ".jp-Notebook"
             },
     ```
-    - <kbd>Alt</kbd> + <kbd>&#8595;</kbd> $\Rightarrow$   `"%>%"`  from `library(magrittr)`
+    - <kbd>Alt</kbd> + <kbd>&#8659;</kbd> $\Rightarrow$   `"%>%"`  from `library(magrittr)`
     ```
             {
                 "args": {
@@ -39,7 +39,7 @@
 
     ```
 
-    - <kbd>Alt</kbd> + <kbd>&#8596;</kbd> $\Rightarrow$   `<-` or `->`
+    - <kbd>Alt</kbd> + <kbd>&#8660;</kbd> $\Rightarrow$   `<-` or `->`
     ```
             {
                 "args": {
