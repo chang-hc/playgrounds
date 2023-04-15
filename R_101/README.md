@@ -3,9 +3,11 @@
 - `options(repr.plot.width=8, repr.plot.height=3)`
 - `par(mfrow=c(2,2))`
 
-## `vi ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings`
+# JupyterLab Short keys
 
-- `"%%R"` for `%load_ext rpy2.ipython`
+- `vi ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings`
+
+- <kbd>Alt</kbd> + <kbd><kbd>Ctrl</kbd> </kbd>:   `"%%R"` for `%load_ext rpy2.ipython`
 ```
     "shortcuts": [
         {
