@@ -7,7 +7,7 @@
 
 - `vi ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings`
 
-- <kbd>Alt</kbd> + <kbd>&#8593;</kbd>:   `"%%R"` for `%load_ext rpy2.ipython`
+- <kbd>Alt</kbd> + <kbd>&#8593;</kbd> $\Rightarrow$   `"%%R"` (mostly for  `%load_ext rpy2.ipython`)
 ```
     "shortcuts": [
         {
