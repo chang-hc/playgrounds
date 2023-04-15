@@ -10,7 +10,7 @@
 
 - `vi ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings`
 - [Arrow Symbol](https://www.toptal.com/designers/htmlarrows/arrows/)
-    - <kbd>Alt</kbd> + <kbd>&#8657;</kbd> $\Rightarrow$   `"%%R"` (mostly for  `%load_ext rpy2.ipython`)
+    - <kbd>Alt</kbd> + <kbd>&#8657;</kbd> $\Rightarrow$   `"%%R"`, for  `%load_ext rpy2.ipython`
     ```
         "shortcuts": [
             {
