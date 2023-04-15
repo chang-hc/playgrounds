@@ -1,7 +1,10 @@
-# Useful Tricks
+# Useful Reference
+- [RStudio hangs with Ubuntu 22.04](https://stackoverflow.com/questions/72088170/rstudio-hangs-on-startup-after-ubuntu-22-04-update)
+    * `/usr/lib/rstudio/bin/rstudio --no-sandbox
 
-- `options(repr.plot.width=8, repr.plot.height=3)`
-- `par(mfrow=c(2,2))`
+- Graphics
+    - `options(repr.plot.width=8, repr.plot.height=3)`
+    - `par(mfrow=c(2,2))`
 
 # JupyterLab Keyboard Shortcuts
 
